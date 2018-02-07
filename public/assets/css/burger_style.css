@@ -1,0 +1,26 @@
+body {
+    width:80%;
+    margin:0 auto;
+    background:tan;
+}
+.title{
+    text-align: center;
+    font-size: 48px;
+}
+.available{
+    float:left;
+}
+.devoured{
+    float:right;
+}
+.newBurger{
+    clear:both;
+    text-align: center;
+}
+button{
+    margin:5px;
+}
+img {
+    margin:0 auto;
+    display:block;
+}
